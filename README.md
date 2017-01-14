@@ -1,5 +1,5 @@
-# Basic Project
-## Basic Project Structure
+###Java Fundamentals
+##Project which practices on fundamental Java concepts
 
 *Default Structure for A Basic Project*
 
@@ -8,3 +8,7 @@
 * Maven
 * Log4j
 * TestNG
+* Java Appliacation
+* JUnit
+
+[Yana Tychynska]
